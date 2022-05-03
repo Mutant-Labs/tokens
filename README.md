@@ -17,7 +17,7 @@ Add your token metadata to list.json with the following data:
 "symbol": Token symbol,
 "decimals": Token decimals,
 "chainId": 1313161554,
-"logoURI": "https://raw.githubusercontent.com/MutantSwap-labs/tokens/master/assets/{TOKEN_ADDRESS}/logo.svg"
+"logoURI": "https://raw.githubusercontent.com/mutant-labs/tokens/master/assets/{TOKEN_ADDRESS}/logo.svg"
 }
 ```
 
